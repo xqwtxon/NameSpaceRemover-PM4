@@ -35,7 +35,7 @@ declare(strict_types = 1);
 
 namespace JackMD\NameSpaceRemover;
 
-use pocketmine\Player;
+use pocketmine\player\Player;
 
 class CustomPlayer extends Player{
 
