@@ -111,4 +111,5 @@ class CustomPlayer extends Player{
 	private function hasSpaces(string $string): bool{
 		return strpos($string, ' ') !== false;
 	}
+	
 }
