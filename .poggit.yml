@@ -4,4 +4,6 @@ branches:
 projects:
   NameSpaceRemover:
     path: ""
+    lint:
+      phpstan: false
 ...
